@@ -1,12 +1,12 @@
 // --- Função principal ----//
 void setup() {
-  // Configura a GPI015 como sáida
+  // Configura a GPI026 como sáida
   pinMode(26, OUTPUT);
 }
 
 // --- loop infinito ----//
 void loop() {
-  // Liga a GPI015
+  // Liga a GPI026
   digitalWrite(26, HIGH);
 
   // delay 
