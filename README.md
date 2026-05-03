@@ -7,3 +7,7 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 ## Site para emular o ESP:
 https://wokwi.com
+
+
+## Mapa da pinagem
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32_devkitC_v4_pinlayout.png
